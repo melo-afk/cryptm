@@ -189,7 +189,11 @@ The point 199*(501, 449)=(866, 715) exists: True
 Elliptic curve: 
 
 $$y^2\equiv x^3+x+679 \qquad[x,y]\in\mathbb{F}_{1151}$$
+
+
 or
+
+
 $$F(X,Y)=Y^2-X^3-X-679\qquad[x,y]\in\mathbb{F}_{1151}$$
 
 </details>
@@ -236,7 +240,11 @@ The point 4*(x + 1, x)=(x^2 + 1, x^2 + x) exists: True
 Elliptic curve with the defining polynomial/relation $a^3=a+1$: 
 
 $$y^2+xy\equiv x^3+(a^2 + 1)x^2+1 \qquad[x,y]\in\mathbb{F}_{2^3}$$
+
+
 or
+
+
 $$F(X,Y)=Y^2+XY+X^3+(a^2 + 1)X^2+1\qquad[X,Y]\in\mathbb{F}_{2^3}$$
 
 
